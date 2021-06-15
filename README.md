@@ -8,5 +8,5 @@ UW Data Analysis Bootcamp Module 1 Exercise
 
 *To the mock playwright I would add to launch the campaign in May, and keep the goal between $1,500 and $5,000.
 
-*Also, should anyone not involved with the course look at this, I must deeply apologize for the graphs without any labaled axes. Obviously much less useful,
+*Also, should anyone not involved with the course look at this, I must deeply apologize for the graphs with perhaps poorly labeled axes. Obviously much less useful,
 *but not in the course flow.
