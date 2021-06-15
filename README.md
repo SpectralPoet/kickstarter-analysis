@@ -1,5 +1,32 @@
+# Kickstarting with Excel (this is a great title and I won't change it)
 
-# An analysis of kickstarter campaigns.
+## Overview of Project *
+/*The project was designed to
+
+*/
+
+### Purpose
+
+## Analysis and Challenges *
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results *
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
+
+
+# An updated analysis of kickstarter campaigns.
 UW Data Analysis Bootcamp Module 1 Exercise
 *Mock exercise done to help a faux playwright find and examine data on what would create a successful play kickstarter campaign.
 
@@ -10,3 +37,4 @@ UW Data Analysis Bootcamp Module 1 Exercise
 
 *Also, should anyone not involved with the course look at this, I must deeply apologize for the graphs with perhaps poorly labeled axes. Obviously much less useful,
 *but not in the course flow.
+
