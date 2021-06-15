@@ -1,19 +1,23 @@
 # Kickstarting with Excel (this is a great title and I won't change it)
 
 ## Overview of Project *
-/*The project was designed to
-
-*/
+The project was designed to help a faux playwright understand Kickstarter campaigns. Basically.
 
 ### Purpose
+This aforementiod faux playwright wanted to launch a play and this analysis was to enlighten her to as to what makes a Kickstarter campaign successful (or unsuccessful.)
+
 
 ## Analysis and Challenges *
 
 ### Analysis of Outcomes Based on Launch Date
 
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
+A bunch of rows were added at the end of my table, so I had to figure out how to delete them, which was curiously unintuitive so I had to Google it.
+Then, I later discovered that during this I had accidentally deleted about 400 rows of my data. So I had to redownload the original workbook, find out which filters
+I had accidentally deleted rows of, and then copy paste them back in, and reapply the formulas for rows we had created during the module to the new rows.
 
 ## Results *
 
